@@ -32,9 +32,6 @@ Nos cursos desta Formação, veremos diversas maneiras de atacar problemas, semp
 Como profissional de Machine Learning, você pode entrar em um mercado que está crescendo cada vez mais e ajudar as empresas a otimizar recursos, escalar atendimento, aumentar a segurança do trabalho ou diminuir falhas e muito mais.
 
 ----------
-
-  
-
  - [x] Primeiros passos
 
 > Mergulhe de cabeça no mundo de  **Machine Learning!**
